@@ -2002,7 +2002,9 @@
   },
   "7561266791": {
     "name": "OfficialCoinMarketCap",
-    "history": []
+    "history": [
+      "Offcial_CoinMarketCap_5"
+    ]
   },
   "8456060880": {
     "name": "ʙᴀᴅᴏʟ ᴏғғɪᴄɪᴀʟ⍣",
@@ -2761,5 +2763,9 @@
     "history": [
       "Robigntng"
     ]
+  },
+  "7704269899": {
+    "name": "ＬＥＯ",
+    "history": []
   }
 }
