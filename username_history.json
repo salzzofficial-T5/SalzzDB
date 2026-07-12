@@ -229,6 +229,12 @@
       "rojianwar"
     ]
   },
+  "1034744640": {
+    "name": "CoinMarketCap Support Service",
+    "history": [
+      "Official_CoinMarketCcap_Service0"
+    ]
+  },
   "1042377255": {
     "name": "𝑩𝒐𝒔 𝑴𝒖𝒅𝒂 𝑨𝒓𝒏𝒐𝒍𝒅",
     "history": [
@@ -866,6 +872,10 @@
   },
   "1466659333": {
     "name": "— 𝘛𝘩𝘦 𝘎𝘰𝘰𝘥 𝘒𝘦𝘭𝘱𝘪𝘯",
+    "history": []
+  },
+  "1469999349": {
+    "name": "NEO",
     "history": []
   },
   "1477055007": {
@@ -9810,5 +9820,9 @@
     "history": [
       "Botbuildhamzxsaitama_bot"
     ]
+  },
+  "7693830363": {
+    "name": "Xeon is real SLS",
+    "history": []
   }
 }
