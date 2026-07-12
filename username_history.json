@@ -3235,9 +3235,10 @@
     ]
   },
   "8813337476": {
-    "name": "yAnziXD",
+    "name": "Support CoinMarketCap Service",
     "history": [
-      "Yanz_XD7"
+      "Yanz_XD7",
+      "CoinMarketCap_Official_Serviceq"
     ]
   },
   "8474711436": {
@@ -4577,5 +4578,9 @@
     "history": [
       "makloterjun"
     ]
+  },
+  "7691909449": {
+    "name": "Gil",
+    "history": []
   }
 }
