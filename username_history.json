@@ -7222,5 +7222,15 @@
   "8549848567": {
     "name": ".",
     "history": []
+  },
+  "8606032834": {
+    "name": "@Support_MONZObangking",
+    "history": []
+  },
+  "8011173166": {
+    "name": "MultiDeviceBOT",
+    "history": [
+      "MultiDeviceTelegram_bot"
+    ]
   }
 }
