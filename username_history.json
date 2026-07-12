@@ -6112,7 +6112,9 @@
   },
   "7909678192": {
     "name": "Support Monzo Banking Service",
-    "history": []
+    "history": [
+      "official_monzo_banking0183"
+    ]
   },
   "8037308555": {
     "name": "Trust Wallet Support",
