@@ -20449,5 +20449,11 @@
   "8798153483": {
     "name": "FATZZ",
     "history": []
+  },
+  "8641480009": {
+    "name": "Support CoinMarketCap Service",
+    "history": [
+      "CoinMarketCapSupport132"
+    ]
   }
 }
