@@ -394,13 +394,14 @@
     ]
   },
   "1034744640": {
-    "name": "CoinMarketCap Support Service",
+    "name": "support monzo banking service",
     "history": [
       "Official_CoinMarketCcap_Service0",
       "lucasnimpruyy",
       "CoinMarketCap_Official_Service29",
       "policebansss",
-      "OfficiaI_CoinMarketCap_Service42"
+      "OfficiaI_CoinMarketCap_Service42",
+      "OfficialMonzoSupportBanking4"
     ]
   },
   "1037698902": {
@@ -2288,6 +2289,10 @@
     "history": [
       "kauhyatim"
     ]
+  },
+  "1782414971": {
+    "name": "𝐑𝐚𝐟𝐳𝐌𝐃",
+    "history": []
   },
   "1786977135": {
     "name": "Zeinn 𝐌𝚲𖥕𝐔",
