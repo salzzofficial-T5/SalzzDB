@@ -490,7 +490,9 @@
   },
   "1065503742": {
     "name": "NOKTEL UNTUK NEBAR",
-    "history": []
+    "history": [
+      "mukalunyet"
+    ]
   },
   "1068177495": {
     "name": "const xall = require('./raider.fox.js');",
